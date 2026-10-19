@@ -2,3 +2,4 @@ Project Manager - Arsyanova Dewanto - 102042400075
 
 Anggota - Naufal Sinambela (edit dari main) -102042400135
 Anggota - Naufal Sinambela (edit dari Naufal_Branch) -102042400135
+Anggota - Naufal Sinambela (tambahan untuk Pull Request)
